@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="sling:OsgiConfig"
+    connect.with="NOREPLY"
+    smtp.debug="{Boolean}false"
+    smtp.host="smtp.gmail.com"
+    smtp.password="qnlqwcrdflwavbui"
+    smtp.port="465"
+    smtp.ssl="{Boolean}true"
+    smtp.user="noreply.subra@gmail.com"
+    smtp.from.address="noreply.subra@gmail.com"
+    smtp.from.name="Subra Group"/>

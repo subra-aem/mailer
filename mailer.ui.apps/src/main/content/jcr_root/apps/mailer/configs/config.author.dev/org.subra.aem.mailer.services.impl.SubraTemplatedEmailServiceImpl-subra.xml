@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+	xmlns:jcr="http://www.jcp.org/jcr/1.0"
+	jcr:primaryType="sling:OsgiConfig"
+	registration.html.email="/conf/foundation/settings/notification/email/subra/user-registration-email.txt"
+	invitation.html.email="/conf/foundation/settings/notification/email/subra/registration-invitation-email.txt"
+	welcome.html.email="/conf/foundation/settings/notification/email/subra/welcome-email.txt"
+	exception.html.email="/conf/foundation/settings/notification/email/subra/exception-email.txt"
+	generic.html.email="/conf/foundation/settings/notification/email/subra/generic-email.txt"
+	sample.html.email="/conf/foundation/settings/notification/email/subra/sample.html" />
