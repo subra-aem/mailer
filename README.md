@@ -1,5 +1,14 @@
 # subra-aem-flagapp
 
+
+## Dependencies:
+subra-aem-commons:1.0.0 <br>
+subra-aem-configs:1.0.0 <br>
+subra-aem-apps-structure:1.0.0 <br>
+subra-aem-content:1.0.0 <br>
+flag-app-core:1.0.0 <br>
+
+## Release Process:
 #### Steps For Release:
 
 ##### Stage 1 : R-5 -> (2020/8/10) - Cutoff will be R-3 -> (2020/8/12)
