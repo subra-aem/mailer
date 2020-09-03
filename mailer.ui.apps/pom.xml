@@ -10,7 +10,7 @@
 	<parent>
 		<groupId>org.subra.aem</groupId>
 		<artifactId>mailer</artifactId>
-		<version>1.0.0-SNAPSHOT</version>
+		<version>1.0.0</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
